@@ -33,5 +33,13 @@ EDA involved the exploration of the available data  to answer some questions abo
 
   
 ### Analysis
-This is the part I introduce some basic line of sql queries and code used in the provided data set for insight and analysis
+This is the part where I introduce some basic lines of sql queries and code used in the provided data set for insight and analysis
 
+````` SQL
+Select product_category,MAX(Sales) as Highest_Sales
+from VW_KMSales_Returned3
+Group by product_category
+Order by Highest_Sales Desc
+
+`````
+### Data Analysis
