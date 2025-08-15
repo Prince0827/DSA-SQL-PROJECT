@@ -42,4 +42,10 @@ Group by product_category
 Order by Highest_Sales Desc
 
 `````
-### Data Analysis
+###
+
+<img width="1426" height="746" alt="Screenshot 2025-08-15 134702" src="https://github.com/user-attachments/assets/fb5cbceb-bfda-4c6d-9df9-21e2ecd45139" />
+
+
+
+
