@@ -49,3 +49,4 @@ Order by Highest_Sales Desc
 
 
 
+<img width="1316" height="443" alt="Screenshot 2025-08-15 141546" src="https://github.com/user-attachments/assets/b1652192-bef4-4373-8f6e-790cba6ab85f" />
