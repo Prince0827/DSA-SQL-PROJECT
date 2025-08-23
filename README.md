@@ -18,18 +18,18 @@ The Supplier of the Data for this project is The Incubator Hub, under the flagsh
    - for data query, usage of inbuilt functions and other analysis.
    - for import and Export 
    - Server as a source of data for other data analysis tools.
- 3. SQL Syntax and functions
+3. SQL Syntax and functions
    - for the report and results
   
 ### Data Cleaning and Preparation 
 At the initial phase of the Data cleaning and preparation, we perform the following actions using the import data application in the studio
-1. Data quality and integrity
-2. Data cleaning and formatting
+  1. Data quality and integrity
+  2. Data cleaning and formatting
 
 ### Exploratory Data Analysis
 EDA involved the exploration of the available data  to answer some questions about the prepared data, such as 
-- What are the top 3 regions in terms of sales
-- 
+  - What are the top 3 regions in terms of sales
+  
 
   
 ### Analysis
@@ -50,3 +50,5 @@ Order by Highest_Sales Desc
 
 
 <img width="1316" height="443" alt="Screenshot 2025-08-15 141546" src="https://github.com/user-attachments/assets/b1652192-bef4-4373-8f6e-790cba6ab85f" />
+
+
